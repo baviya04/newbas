@@ -27,8 +27,8 @@ public class baseJava {
  }else if (finme!="god"){
      System.out.println("failed");
  }else {
-     System.out.println("welcome");
-     System.out.println("alwaysyou");
+    // System.out.println("welcome");
+     //System.out.println("alwaysyou");
  }
         int gf[] = {4,5,6,7,8};
         System.out.println(gf[0]);
